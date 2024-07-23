@@ -7,20 +7,15 @@ JobSeeker student-company matching algorithm faces challenges related to student
 These issues impact overall job placement success rates and need to be addressed to optimize the matching process and enhance student opportunities.
 
 ## 👩🏻‍💻 Tech Stack
-◦PowerBI
-◦BigQuery
-◦Notion
+* PowerBI
+* BigQuery
+* Notion
 
 ## 🔬 Hypotheses
-* Analyzing conversion rates for students
-
-◦ There might be a significant drop-off in conversion rates between status update for opt-in students
-*  CV upload influence on approved students
-Students with completed CV uploads might have a higher likelihood of being  approved by recruiters
-* Analyzing of Approved Students by Schools
-  ◦ Certain schools or programs may have higher shortlisting rates compared to others, suggesting biases in the matching algorithm or recruiter preferences.
-* Analyzing of Approved Students by Country
-  ◦ Certain schools or programs may have higher shortlisting rates compared to others, suggesting biases in the matching algorithm or recruiter preferences.
+* Analyzing conversion rates for students: There might be a significant drop-off in conversion rates between status update for opt-in students
+* CV upload influence on approved students: Students with completed CV uploads might have a higher likelihood of being  approved by recruiters
+* Analyzing of Approved Students by Schools: Certain schools or programs may have higher shortlisting rates compared to others, suggesting biases in the matching algorithm or recruiter preferences.
+* Analyzing of Approved Students by Country: Certain schools or programs may have higher shortlisting rates compared to others, suggesting biases in the matching algorithm or recruiter preferences.
   
 ### Link the project
 Links to important things
